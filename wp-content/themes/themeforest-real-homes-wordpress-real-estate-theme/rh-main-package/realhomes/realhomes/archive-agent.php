@@ -1,0 +1,47 @@
+<?php
+/**
+ * Agent Archive
+ *
+ * @package realhomes
+ */
+
+get_header();
+?>
+    <div class="rh-page-container container">
+        <div class="row">
+            <div class="col-8 main-content">
+				<?php
+				get_template_part( 'assets/ultra/partials/page-head' );
+
+				// Display any contents after the page head and before the contents.
+				do_action( 'inspiry_before_page_contents' );
+				?>
+                <main id="main" class="rh-main main">
+					<?php
+					if ( have_posts() ) {
+						while ( have_posts() ) {
+							the_post();
+
+							get_template_part( 'assets/ultra/partials/agent/card' );
+						}
+
+						inspiry_theme_pagination();
+					} else {
+						realhomes_print_no_result();
+					}
+					?>
+                </main>
+            </div>
+			<?php
+			if ( is_active_sidebar( 'agent-sidebar' ) ) {
+				?>
+                <div class="col-4 sidebar-content">
+					<?php get_sidebar( 'agent' ); ?>
+                </div>
+				<?php
+			}
+			?>
+        </div>
+    </div><!-- .rh-page-container -->
+<?php
+get_footer();

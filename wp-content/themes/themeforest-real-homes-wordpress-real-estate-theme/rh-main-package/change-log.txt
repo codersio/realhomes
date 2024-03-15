@@ -1,0 +1,2076 @@
+
+Change Log - Real Homes Theme
+=============================
+
+-----------------------------------------------
+VERSION 4.2.1 – UPDATED ON 26th October 2023
+-----------------------------------------------
+Added - Contact page OpenStreetMaps marker icon support
+Added - Dashboard header logo customizer options
+Added - Gallery filters on/off control customizer option
+Added - Latest PayPal payments API method for individual properties payment
+Improved - Property social sharing icons on responsive screens
+Improved - Header menu tags alignment in Modern design
+Improved - Content area top space in Ultra variation
+Improved - Email template colors and control settings
+Fixed - Elementor Search Form widget submit button duplicate issue
+Fixed - SSL issue for DatePicker styles CDN URL on the single property page
+Fixed - Empty DOM issue when no Dashboard module is enabled
+
+
+-----------------------------------------------
+VERSION 4.2.0 – UPDATED ON 3rd October 2023
+-----------------------------------------------
+Introduced - The New Agency Demo: Experience the latest addition with a purpose-specific design for agencies and other real estate companies. https://ultra.realhomes.io/agency
+
+Introduced - The Vacation Rentals Ultra Demo: Perfect for property rentals, this user-friendly addition simplifies your property rental experience with Ultra design.  https://ultra.realhomes.io/vacation-rentals
+
+Added - Agencies Verification Options to show/hide verification badges
+Added - Taxonomy terms list widget for all available taxonomies
+Added - Dynamic sidebar generator functionality on the widgets page
+Added - Custom sidebar selection for the pages, posts, and custom post types
+Added - Agent/User auto assignment controls for submit property functionality
+Added - Cryptocurrencies support to currency switcher
+Added - Customizer settings for 404 template
+Added - New property card layout for ultra grid layout
+Added - Field Builder support on Elementor-based Property Detail Page
+Added - Gallery unified template with columns selection option
+Added - Properties listing unified template with page layout options
+Added - Properties Search unified template with page layout options
+Added - Page layout options to the default page template
+Added - Border radius customizer controls for the whole website
+Added - Fullwidth layout support for the blog page
+Added - Properties page title support above contents when it’s hidden in the banner
+Added - Filters selection counter support to Properties Filters widget heading
+Added - Filters selection preserving support for Properties Filters widget
+Added - Design variation for latest properties widget in Ultra design
+Added - Design variation for Featured properties listing Elementor widget
+Added - Design variation for Testimonials Elementor widget
+Added - Design variation of Elementor Agent widget
+Added - Design variation of Grid layout for the blog in Ultra and Modern designs
+Added - Default Map coordinates validation for property submission in ERE settings
+Improved - Compatibility of the product with WordPress 6.3.x & up to PHP 8.1.x
+Improved - Header menu styles
+Improved - Demo import page structure
+Improved - OpenStreetMap cluster colors in classic design variation
+Improved - Descriptions of the customizer options for better understanding
+Improved - Properties on Google Maps Elementor widget script handling
+Improved - Single property features font-end display in Ultra design
+Improved - Language switcher customizer settings
+Improved - 404-page design for Modern and Ultra design variations
+Improved - Google Maps API for older unsupported browsers
+Improved - Schedule a tour form styles
+Improved - WooCommerce payment box styles
+Improved - Page title spacing/overlapping issues for Arabic websites
+Improved - RVR search form controls in Modern design
+Improved - Select dropdown scroll visibility
+Improved - Breadcrumbs style in Ultra design
+Improved - Price range slider behavior in Elementor search form widget
+Fixed - Image upload option in MetaBoxes at all places
+Fixed - IDX plugin conflict with Elementor search form
+Fixed - Header disappearance issue at some tab-level devices
+Fixed - Demo import page error upon inactive ERE plugin
+Fixed - Visibility of All Statuses tab in Ultra search form
+Fixed - OpenStreetMap conflict with Otter block plugin
+Fixed - Navigation conflict issue when multiple featured properties widgets on a page
+Fixed - Blog styles for multilingual websites in Classic design
+Fixed - Image deletion issue on property update via front-end dashboard
+Fixed - A PHP notice on the front-end dashboard when debug is enabled
+Updated - Translation files for multiple languages in the theme and plugins
+Updated - Multiple included plugins
+
+
+-----------------------------------------------
+VERSION 4.1.1 – UPDATED ON 11th June 2023
+-----------------------------------------------
+Introduced - The New Condominium Demo: https://ultra.realhomes.io/condominium Experience our latest addition with a completely revamped design, offering your website a fresh and elegant look. Explore the sleek and sophisticated layout tailored specifically for showcasing condominium listings.
+
+Added - Property ID support to RealHomes grid Elementor widget
+Added - Custom Date format support in RealHomes vacation rentals
+Added - Advertising slots strategically placed throughout the theme
+Added - Property Booking form to single property full-width template
+Added - Price adjustment option on membership package upgrade/downgrade
+Added - Sticky header functionality for default & custom headers in Ultra
+Added - RVR booking split days reservation functionality
+Added - Global default Avatar support for the new users
+Improved - Elevated RealHomes widgets within the WordPress widgets screen
+Improved - Common meta-boxes fields layout
+Improved - Ultra design variation pagination styles
+Improved - Instant property booking notices/messages styles
+Improved - Floor plans styles for property full-width template
+Improved - The functionality of the Demo Import plugin for an improved user experience
+Improved - Schedule a Tour feature for a more seamless and visually appealing experience
+Improved - SEO compatibility, ensuring better visibility and search engine rankings
+Improved - WooCommerce booking payment page
+Improved - Compare properties code ensuring faster loading and smoother user experience
+Improved - Translation files properties/settings of the theme and related plugins
+Improved - Elementor-based property detail page functionality
+Improved - Accordion RealHomes Elementor Widget
+Improved - Theme activation process
+Fixed - Partners styles for half-map property templates
+Fixed - Select2 dropdown js script related customizer id string
+Fixed - Appearance of author information for property “agent in the sidebar” variation
+Fixed - Ultra search form dropdowns issue for mobile devices
+Fixed - Meta icon color issue in properties grid two Elementor widget
+Fixed - Import issues regarding some customizer default settings
+
+
+-----------------------------------------------
+VERSION 4.1.0 – UPDATED ON 12th April 2023
+-----------------------------------------------
+Added - Geo location search feature to the Vacation Rentals advance search form
+Added - Elementor based single property template support for Ultra design variation
+Added - Properties filters sidebar widget for listing templates
+Added - Customizer setting to hide empty property types in search forms
+Added - Seasonal price fields to the user dashboard
+Added - Contact form show/hide option for the contact page template
+Added - Schedule form visibility control for existing and new properties
+Added - Dashboard menus custom labels support
+Improved - Single property agents section with respect to interaction
+Improved - Login/Register modal experience
+Improved - Maps Lightbox styles that appear upon clicking the property card address
+Improved - Mapbox Map marker color option for the contact page
+Improved - Common meta-boxes settings into tabs for better user experience
+Improved - Featured properties slider Elementor widgets animation default values
+Improved - Improved translation support across multiple areas
+Improved - Polylang translation support
+Improved - RTL styles
+Improved - Vacation Rentals advance search form behavior with Ajax enabled
+Improved - Ajax pagination in Ultra design
+Fixed - Invalid color value issue in customizer core colors settings
+Fixed - Duplicate loader issue on homepage properties section in Modern
+Fixed - Fields duplication issue fixed for Elementor Search Forms
+Fixed - Responsive issue of CRM backend data tables
+Fixed - OMS JavaScript error on properties results page due to marker overlapping
+Fixed - Elementor Theme Location API issue in all listings and archive templates
+
+
+-----------------------------------------------
+VERSION 4.0.2 – UPDATED ON 14th February 2023
+-----------------------------------------------
+Improved - Design variation selection setup on theme upgrade
+Improved - Floor plan image display on full-width property detail page in Modern
+Improved - Login modal styles on the dashboard page for Ultra design variation
+Improved - Gutenberg Blocks styles for Modern & Ultra design variations
+Improved - Submit/Edit property page on front-end dashboard
+Improved - Various parts of the property compare feature
+Improved - Properties Cities Elementor Widget data handling
+Fixed - Properties taxonomy page results
+Fixed - Advance search price field parameter duplication issue
+Fixed - Search form Rent/Sale prices switch based on property status selection
+Fixed - Search form fields value holding issue on the search results page in Ultra
+Fixed - The login form issue for the login-register template
+Fixed - The Login/Register template page creation issue
+Fixed - Property taxonomies terms description display issue on taxonomy pages
+
+
+-----------------------------------------------
+VERSION 4.0.1 – UPDATED ON 25th January 2022
+-----------------------------------------------
+Added - Setting to change the Google map type globally
+Added - WPML language switcher support in Ultra Variation
+Added - “Sort by Title” option in property listing templates
+Added - Sections management options for property print view
+Added - Reserve Booking Dates feature to the front-end Dashboard
+Added - Admin dashboard notice to guide users about new updates
+Added - All users’ “Saved Searches” management by Administrator on the front-end dashboard
+Improved - Styles on various places throughout the theme
+Improved - Mortgage calculator sidebar widget styles
+Improved - Print Styles
+Improved - Compare properties template code-base
+Improved - Demos Import page
+Fixed - Blog page banner issue for fresh installs
+Fixed - Property detail page accordion & toggle contents flickering issues
+Fixed - Half map template RTL issues
+Fixed - HTML validation issues at various locations
+Fixed - Whatsapp share button issue on the Ultra property detail page
+Fixed - Search form loading issues in Ultra variation
+Fixed: Favorite page link issue in RealHomes Elementor Login Modal Widget
+Fixed - Date format in Grid Cards throughout the theme
+
+
+-----------------------------------------------
+VERSION 4.0.0 – UPDATED ON 4th January 2023
+-----------------------------------------------
+Added - Completely NEW ULTRA DESIGN VARIATION
+Added - New design Ultra demo import option
+Added - Reviewer message on edit property page (backend)
+Added - Responsive header color settings
+Added - Search filters for Agencies and Agents listing templates
+Added - Helping notification messages on design variation settings page
+Added - Schedule a tour functionality for the single property page
+Added - New Schedule a tour Elementor widget
+Added - Email verification for newly registered users
+Added - Custom Labels support for Elementor Schedule A Tour Form Widget
+Added - Checkbox support for additional user meta fields
+Added - Agencies Listing Elementor Widget
+Added - iCalendar synchronization property fields support on front-end dashboard
+Added - New additional features design in the advance search form
+Improved - Elmentor news widget gallery display
+Improved - Dashboard bookings design and settings
+Improved - Property detail customizer options
+Improved - Similar properties tabs visibility
+Improved - Menu items description visibility
+Improved - Dashboard listing pagination styles
+Improved - Contact form 7 and WP Forms compatibility
+Improved - Dashboard multistep property submit navigation functionality 
+Improved - Status tags on property listing cards
+Improved - Default search form styles
+Improved - AJAX pagination for property listing templates
+Improved - Typography and updated Google fonts list to the latest
+Fixed - Ajax pagination issues for compare & favorite property templates
+Fixed - Sticky header issue for the compare property templates
+Fixed - Advanced Search form sidebar widget display issue
+Fixed - Horizontal scroll issue for the mobile devices
+Fixed - Google map display issue in Elementor properties listing widget
+Fixed - Full-width property detail page carousel horizontal scroll issue
+Fixed - Agents dropdown issue in submit property form on front-end dashboard
+Fixed - Guest icons color controls issue
+Fixed - Home page properties list layout pagination issue
+Fixed - Search form price slider issue
+Fixed - Slider Revolution display issue for blog pages
+Fixed - Elementor featured property 2 widget navigation issues
+Fixed - Mapbox property address lightbox issue
+Fixed - Dashboard property submit multi-select issues for more than one location fields
+Fixed - Multi-select issue of child location fields in submit property form on front-end dashboard
+Fixed - Multiple demo import issues
+
+
+-----------------------------------------------
+VERSION 3.21.0 – UPDATED ON 30th August 2022
+-----------------------------------------------
+Added - MapBox support for the theme map functionality.
+Added - Front-end dashboard section for properties booking management in Vacation Rental
+Added - Option to manually mark properties as booked in Vacation Rental
+Added - Option to increase number of guests in Vacation Rental search and booking forms.
+Added - Report a property functionality
+Added - Agency field to properties search forms
+Added - Ajax support for properties search results pages
+Added - Ajax pagination support for property listing & search results templates
+Added - Loader for Ajax based similar properties section
+Added - Agency with standard user display for properties listing/featured elementor widgets
+Added - Property listing cards variations
+Added - Featured label string change option for featured properties
+Added - Option for Elementor news widget to show/hide posts based on featured image
+Added - Labels edit controls for property submit templates on frontend dashboard
+Improved - WPML compatibility on several places
+Improved - RealHomes Elementor Widgets registration and scripts/styles enqueue process
+Improved - Vertical properties map by removing unusual bottom space
+Improved - Demo import preview links
+Improved - Standard user styles for properties listing/featured widget cards
+Improved - Customizer google font files to save excessive bandwidth
+Improved - Several RTL related styling issues
+Improved - Save search related styles for Classic design variation
+Improved - Elementor search form widget styles
+Improved - Property detail page meta tooltip styling
+Improved - Reply functionality for the email sent by agent inquiry forms
+Improved - Rating stars colors
+Improved - Several demo import issues for some demos installation
+Fixed - Gallery listing templates isotopes functionality for RTL languages
+Fixed - Gallery pages property links hover issues
+Fixed - Elementor Search form widget price sliders glitch on mobile
+Fixed - Touch devices info box links disabled issue on mobile
+Fixed - Social icons structural issues for agents listing and single
+Fixed - Unusual space in agent form textarea before pre-added text
+Fixed - Color control issue of header-2 Submit property button
+Fixed - Several issues of property detail page design variations
+Fixed - Featured tag not changing on the front-end for properties sidebar widgets
+Fixed - Broken property detail page issue when Yelp is active
+
+
+
+-----------------------------------------------
+VERSION 3.20.0 – UPDATED ON 28 June 2022
+-----------------------------------------------
+Added - Address show/hide control to the Elementor Slider Widget
+Added - The "Contact Tags" menu under RealEstate CRM for better tag management. https://tppr.me/50q6o
+Added - Sticky sidebar functionality for property detail page
+Added - Pagination stats above property listings. https://tppr.me/QOM2p
+Added - Custom property search form support for inner pages
+Added - Support for New Custom Fields in property listing cards all over the theme
+Added - All contact fields support for Elementor Agents Grid Widget
+Added - All contact fields support for Elementor Agents Grid Two Widget
+Added - 5 new property detail page design variations.
+Added - Agent verification badge functionality for all agent display areas
+Improved - Image association for the uploaded property gallery pictures from the frontend dashboard.
+Improved - Tooltip visibility for all property cards when the round corners option is enabled
+Improved - The animation behavior for the advanced search form
+Improved - The translation strings for multiple languages
+Fixed - Wrong sidebars issue on Agent & Agency listing templates
+Fixed - Additional fields duplication issue in the Elementor Search Form widget
+Fixed - Dashboard submit property form action buttons disabling issues
+Fixed - Sorting dropdown broken layout issue in property listing templates [Classic]
+Fixed - Notices issue in agents Elementor widgets when author view enabled
+Fixed - Demo import issues regarding attachments
+
+
+-----------------------------------------------
+VERSION 3.19.0 – UPDATED ON 09 May 2022
+----------------------------------------------
+Added - New Demo ( https://sample.realhomes.io/demo05 ).
+Added - Custom Header support, Examples ( https://sample.realhomes.io/demo05/custom-headers/ )
+Added - Custom Footer support, Examples ( https://sample.realhomes.io/demo05/custom-footers/ )
+Added - New Search Form, Examples ( https://sample.realhomes.io/demo05/search-forms/ )
+Added - Ajax Pagination on all Listing, Search and Archive pages for Modern.
+Added - Option to hide meta info on the blog page.
+Added - Properties Min & Max Lot Size fields in the properties search.
+Improved - Search Form Top Tabs options for Property Types and Property Status.
+Improved - Search Form Default Selection for Property Types.
+Improved - iHomefinder IDX plugin styles for Classic and Modern design.
+Improved - The format of the Date in Login Modal as per WordPress global date format settings
+Fixed - Missing data warning issues of currency position and symbol on the Memberships CPT index page column.
+Fixed - Modern search form input border-radius issue for iPhone.
+Fixed - Various minor issues.
+
+
+----------------------------------------------
+VERSION 3.18.0 – UPDATED ON 3rd April 2022
+----------------------------------------------
+Added - New Demo ( https://sample.realhomes.io/stress-test-demo/ ).
+Added - New Demo ( https://sample.realhomes.io/arabic/ ).
+Added - Custom Header/Footer support ( Header/Footer can be created using Elementor Page builder ).
+Added - New Elementor Widget [ Properties Slider 2 ].
+Added - New Elementor Widget [ Site Logo ].
+Added - New Elementor Widget [ Nav Menu ].
+Added - Automatically highlight sticky header navigation links when scroll reaches to related sections.
+Added - Discounted/Old price support for All Properties Elementor Widgets.
+Added - Agent License Number to single-agent pages.
+Added - Option to enable/disable Property Analytics column in Admin dashboard.
+Added - Option to hide property address.
+Added - Property Grid Card 2 and Grid Card 3 styles customizer settings.
+Added - Background image settings for banners in customizer.
+Improved - RealHomes Elementor widget [ Icons List ] various improvements.
+Improved - RealHomes Elementor widget [ Gallery ] various improvements.
+Improved - Missing customizer style settings for property list card.
+Improved - Multiple new filters ( https://realhomes.io/documentation/available-filters/ ).
+Improved - Compare properties template various improvements.
+Improved - Google Maps click behaviour.
+Fixed - Dashboard links bug in Login Modal Elementor Widget
+Fixed - Search form select fields in safari
+Fixed - image upload issue for submit property template in Iphone for Safari
+Fixed - Deprecation notice generated by WP_User_Query
+Fixed - Translation Duplication Bug for WPML
+Fixed - Retina logo missing bug
+
+
+-----------------------------------------------
+VERSION 3.17.0 – UPDATED ON 3rd February 2022
+----------------------------------------------
+Added - New Demo ( https://sample.realhomes.io/modern03/ )
+Added - New Demo ( https://sample.realhomes.io/modern04/ )
+Added - New Elementor Widget [ Property Taxonomies ].
+Added - New Elementor Widget [ Properties Slider ].
+Added - New Elementor Widget [ Agent Single ].
+Added - Preset color schemes.
+Added - WordPress default date format on blog posts.
+Added - Customizer option to modify agent section WhatsApp and Call Now button labels on the single property page.
+Added - Customizer option to change buttons transition styles.
+Added - Property views column in the properties list table.
+Improved - Elementor Advanced search widget fields values preservation when searched.
+Improved - Properties highlighting feature on hover behavior for Half Map Template.
+Improved - Customizer settings related to Properties Templates & Archive section.
+Improved - Single property page head title RTL styles.
+Improved - Pages meta box presentation.
+Improved - Single property videos slider code.
+Improved - WooCommerce checkout page styles.
+Fixed - PHP 7.2 incompatibility & PHP 8.0 warning & notices.
+Fixed - An issue where property gets published on editing while the payment is pending.
+Fixed - Ajax error during submission of Elementor agent contact form.
+Fixed - Select dropdown item selections, when it is an integer value.
+Fixed - Elementor Breakpoints styles issue
+Fixed - Broken image icon issue when it is viewed in Elementor lightbox.
+Fixed - Custom styles application of header gradient and slider description featured tag.
+Fixed - Sort control dropdown opening issue for properties list templates when Optima Express plugin was active.
+Fixed - Outdated currency symbols.
+Fixed - Advanced search form fields text color difference issue.
+Fixed - Forms loader color issue when custom styles are enabled.
+Fixed - Various minor issues.
+
+-----------------------------------------------
+VERSION 3.16.0 – UPDATED ON 23rd December 2021
+----------------------------------------------
+Added - New Demo ( https://sample.realhomes.io/modern02/ )
+Added - New Demo Single Property ( https://sample.realhomes.io/single-property-02/ )
+Added - New Elementor Widget [ Inquiry Form ].
+Added - New Elementor Widget [ Properties List Layout ].
+Added - An option to choose between pins or circles for the properties locations on the Listing and Archive pages Maps.
+Added - Color customization support based on the theme core color to the RVR Booking response-related messages.
+Improved - WhatsApp field in User Profile page.
+Improved - Sticky Header with more custom color options.
+Improved - Removed deprecated Elementor methods in RealHomes Elementor Widgets
+Improved - Footer Layout Options added. 
+Improved - Global Ajax destination parameter defining code.
+Improved - Various improvements in Elementor widgets. 
+Improved - Various Print Styles improvements.
+Fixed - Bugs related to PHP 8.0
+Fixed - New fields builder fields labels translation issue.
+Fixed - Blog Page Search Form display option was not working on single post.
+Fixed - Floor Plans Open/Close FontAwesome Icons issue.
+Fixed - Elementor Search Form widget dropdown z-index issue.
+Fixed - Full width Property Detail page slider counter issue.
+Fixed - Missing Title Box in Fullwidth Property Detail Page.
+Fixed - Dashboard properties status filter and search 404 issues for Hebrew language.
+Fixed - The floor plan accordion first item opening issue on fullwidth property template.
+Fixed - Various minor issues.
+
+Memberships:
+------------
+Added - Membership free package subscription support.
+Fixed - Dual receipts creation issue upon membership package subscription.
+Fixed - Instant receipt expiration issue after membership package subscription.
+Fixed - Membership package expiration issue where it was not expiring sometimes on its end date.
+
+Vacation Rentals:
+-----------------
+Added - Booking checkout page fields auto-filled feature based on the provided information for the booking in the first place.
+Improved - Booking checkout page styles.
+Improved - Booking confirmation message styles.
+
+
+-----------------------------------------------
+VERSION 3.15.1 – UPDATED ON 19th September 2021
+-----------------------------------------------
+Fixed couple of bugs reported after last update.
+
+
+-----------------------------------------------
+VERSION 3.15.0 – UPDATED ON 14th September 2021
+-----------------------------------------------
+Added - Single Property demo ( https://demo.realhomes.io/single-property/ )
+Added - Masonry gallery layout for property detail page (Modern).
+Added - Carousel gallery layouts for property detail page (Modern).
+Added - Thumbnails Two gallery layout for property detail page (Modern).
+Improved - Typography customizer settings.
+Improved - Property card's flexibility.
+Improved - Styles customizer settings with respect to Search Form's colors.
+Improved - Property statuses settings to exclude from search.
+Improved - Agents customizer setting by adding a new one to show/hide properties count.
+Improved - Featured Properties Carousel elementor widget by adding autoplay functionality.
+Improved - Properties half map template's user experience.
+Fixed - A bug related to login on the homepage.
+Fixed - A horizontal spacing but on the property detail page.
+Fixed - Keyword field's placeholder setting application in Elementor based Search Widget
+Fixed - Property Thumbnails Gallery bug.
+Fixed - Envelop icon appearance issue in case of no agent contact form.
+Fixed - A conflict with Yoast Local SEO plugin.
+Fixed - iHomeFinder IDX header options.
+
+Vacation Rentals:
+-----------------
+Added - iCalendar synchronization support.
+Added - Bulk prices support in a flexible way. User can add multiple bulk pricing conditions, by adding the number of nights to be booked consecutively to get the discounted price.
+Added - Seasonal prices support in a flexible way. User can set different prices per-night  for the different periods depending on the low seasons and high seasons.
+Added - Custom additional fee support. User can add a custom label, custom price, custom condition(per stay/per night/per guest/per guest per night) and calculation type (percentage or fixed).
+Added - Additional guests acceptance and related pricing controls.
+Added - Accommodation module to property detail page.
+Improved - Search Form's UI.
+Improved - Availability calendar UI.
+Improved - Booking widget's UI and UX.
+Improved - Included payment calculation details to booking widget.
+Improved - Booking emails by including more details and improving the format.
+
+
+-----------------------------------------------
+VERSION 3.14.1 – UPDATED ON 24th June 2021
+-----------------------------------------------
+Added - Stripe's Strong Customer Authentication (SCA) compliance to Memberships and Properties payments.
+Added - Customizer setting to modify Agent form's default message.
+Improved - Contact form widget's styles when used in Elementor.
+Improved - Full width property detail page's gallery code and add related customizer setting.
+Improved - Gallery template's image displaying approach.
+Improved - JavaScript code.
+Updated - Theme's POT file.
+Fixed - Photos duplication in property detail page's Lightbox gallery.
+Fixed - Translated properties price modification issue.
+Fixed - Property's print styles.
+Fixed - Lightbox gallery images issue for archive pages.
+Fixed - Booking editing issue in admin dashboard.
+Fixed - Inner level menu's styles - Modern.
+
+
+-----------------------------------------------
+VERSION 3.14.0 – UPDATED ON 5th June 2021
+-----------------------------------------------
+Introduced - A modern and mobile-friendly Lightbox to display gallery images, videos, and maps.
+Introduced - RealHomes WooCommerce Payments Add-on to provide WooCommerce Payments support.
+Added - New Elementor Widget [ Hero ]
+Added - New Elementor Widget [ How It Works ]
+Added - New Elementor Widget [ Testimonials Four ]
+Added - New Elementor Widget [ Accordion ]
+Added - Property grid card's design variation support for properties grid templates and archives.
+Added - WhatsApp and Call buttons to Agent's contact widget on property detail page.
+Added - Agent's sticky contact bar for mobile screens on property detail page that provides Message, WhatsApp, and Call buttons.
+Added - Functionality to send an automatic email notification to the property owner when his/her submitted property is published. 
+Added - Functionality to warn the user before leaving the front-end property submission form with unsaved changes.
+Added - Virtual Tour embeds code support for front-end property submission form. Also added related customizer settings.
+Added - Multiple videos support for front-end property submission form and removed the old video URL field.
+Added - WooCommerce Payments support for the individual properties.
+Improved - Front-end property submission functionality by enabling Ajax based submission and updating.
+Improved - Admin side properties list by marking Featured properties.
+Improved - Dates in Elementor Properties widgets by making them compatible with WordPress date format.
+Improved - Add To Compare and Add To Favourite buttons for Elementor Featured Properties One widget.
+Improved - Elementor Search Form widget by adding labels margin-bottom controls. 
+Improved - Save Search compatibility with WPML and Polylang plugins.
+Improved - Mortgage Calculator code with respect to usability.
+Improved - Featured Properties Widget behaviour on property detail page by excluding current property from it.
+Improved - Customizer settings performance by disabling live preview reload where it was not required.
+Improved - Multisite registration and login form styles.
+Improved - Similar Properties module's code.
+Improved - Contact page's google map styles
+Fixed - Placeholder images.
+Fixed - Mortgage Calculator calculation problem when used in non-English language browser.
+Fixed - Favourite property issue with secondary language in a multilingual website.
+Fixed - Elementor Locations/Cities widget's translation issue with WPML.
+Fixed - Sticky properties functionality.
+Fixed - Location selection bug in Classic Search Form.
+
+Memberships:
+------------
+Added - WooCommerce Payments support for the Membership Packages.
+Improved - Memberships upgrade and downgrade process.
+Improved - Memberships packages interface and overall functionality.
+Improved - Membership subscription benefits adjustment according to the current published properties.
+Improved - Overall memberships code for the optimization and enhanced efficiency.
+Improved - Memberships notification emails contents and design.
+Improved - Memberships from various other aspects.
+Fixed - Receipt expiration problem when another receipt is already active for the same package.
+Fixed - Featured properties limit based on allowed numbers in a package.
+
+Vacation Rentals:
+-----------------
+Introduced - Freshly designed "Become A Host" page based on newly added Elementor widgets.
+Added - WooCommerce Payments support for the Vacation Rentals Bookings ( Now Instant Booking is supported with Payment).
+Improved - Vacation Rentals compatibility with WPML and Polylang plugins for multilingual use.
+Fixed - Property availability calendar synchronization between its translation properties.
+
+Improved various other things in overall theme and plugins.
+Included Elementor templates JSON files in theme's main package for your ease of use.
+
+
+
+-----------------------------------------------
+VERSION 3.13.1 – UPDATED ON 23rd March 2021
+-----------------------------------------------
+Fixed - Search Form's Location field related bug.
+Fixed - Few other minor issues.
+Improved - Dynamic styles.
+
+
+-----------------------------------------------
+VERSION 3.13.0 – UPDATED ON 17th March 2021
+-----------------------------------------------
+Introduced - Freshly designed demo for Single Real Estate Agent - https://demo.realhomes.io/single-agent/
+Introduced - Save Search feature with related settings, to deliver Email alerts about newly published properties that match Saved Search criteria - https://tppr.me/wH9G0
+Added - New Elementor Widget [ Agent Profile - https://tppr.me/O3r0D ]
+Added - New Elementor Widget [ Properties Grid Four - https://tppr.me/jv2wE ]
+Added - New Elementor Widget [ Agents Grid Two - https://tppr.me/Zh24S ]
+Added - New Elementor Widget [ Testimonials Three - https://tppr.me/YDeTm ]
+Added - New Elementor Widget [ Agent Contact Form - https://tppr.me/dRqZY ]
+Added - Vacation Rentals related fields support to Homepage Slider - https://tppr.me/ig76n - https://vacation-rentals.realhomes.io/home-properties-slider/
+Added - Google reCaptcha V2 and V3 support to vacation rentals booking widget.
+Added - Vacation rental fields in Submit property form in User Dashboard.
+Added - Customizer settings to show Availability Calendar on property detail page based on selected property statuses.
+Added - Ability to select multiple values for locations, types and agent dropdown in search form if related customizer settings are enabled.
+Added - Pinterest and Youtube social icons support for Agent and Agencies - https://tppr.me/WdJyC
+Added - New metabox field for Contact Form Over Slider to redirect user after successful form submission.
+Added - Filter Buttons for Similar Properties on the property detail page to offer more choices - https://tppr.me/GPwi4
+Added - Basic compatibility for WooCommerce.
+Added - Share by email in property sharing section for Classic.
+Added - New code filter 'ere_after_taxonomies_sub_menu' to add submenu after property taxonomies.
+Added - Vacation Rental booked dates in REST API.
+Added - Widget settings to change 'Featured' label for featured properties widgets.
+Added - Settings to change 'Featured' label in Properties Elementor Widgets.
+Added - Favourites menu item for not signed-in visitors - https://tppr.me/YAYHu
+Added - Google reCaptcha V2 and V3 support for Property Submit form when Guest Property Submission is enabled.
+Improved - Inspiry Memberships plugin and its various aspects.
+Improved - Membership functionality to stop further property submissions when a user reaches the allowed limit given in the membership package.
+Improved - Memberships receipts emails by adding useful information.
+Improved - Property Submit visibility by disabling it for users without a membership package.
+Improved - Properties payments information in user dashboard properties list.
+Improved - User profile image code on the dashboard profile page.
+Improved - Functionality to auto assign current agent/author on property submit when 'User & Agent/Agency Sync' options is enabled from customizer.
+Fixed - Incorrect expiry date display on the user membership page.
+Fixed - Updated Property Status customizer settings issue, when Membership plugin is activated.
+Fixed - Featured properties counter updating issue, on user membership page.
+Fixed - Additional fields data saving issue, on User Dashboard's property edit form.
+Fixed - Tabs scroll position in multi-steps layout while navigating next and previous on dashboard submit property page.
+Fixed - Images uploading issue on dashboard submit property page.
+Fixed - Dashboard Header menu dropdown opening issue in FireFox.
+Fixed - Dashboard Sidebar top spacing issue while scrolling on small devices.
+Improved - Ajax locations dropdown items loading.
+Improved - Share property section by making it independent from map section in Classic design.
+Improved - Google Map controls visibility for Half Map layout.
+Improved - Blog posts search results by removing the irrelevant post type.
+Improved - Search form customizer settings by grouping them into separate panels.
+Fixed - Advanced Search Form Elementor Widget's price slider issue on small devices.
+Fixed - Booking update issue when changed manually from the backend.
+Fixed - Google API Key issue faced while setting up the Social Login.
+Fixed - Additional fields title translation and display in the search form.
+Fixed - Terms slug formatting issue for Russian and Hebrew languages while using WPML plugin.
+Fixed - Search form fields text vertical alignment in Classic design.
+Fixed - Button hover color in login model when custom styles customizer option was selected.
+Improved - RealHomes Vacation Rentals plugin.
+Improved - RealHomes PayPal Payments plugin.
+Improved - Inspiry Stripe Payments plugin.
+Improved - Properties Elementor Widget.
+Improved - Code with respect to WordPress 5.6 & 5.7 updates.
+Improved - Various other minor things.
+
+
+-----------------------------------------------
+VERSION 3.12.2 – UPDATED ON 23rd December 2020
+-----------------------------------------------
+Added - Drag and drop meta icons manager for property card related to properties Elementor widgets. https://tppr.me/1tMXH
+Added - New metabox field for contact page template to redirect user after successful contact form submission. https://tppr.me/YVs07
+Improved - Add to Favorite button by enhancing its funtionality to remove a property from favorites by re-clicking the same button.
+Improved - Phone number visibility on small devices when sticky header options is enabled in Modern design.
+Improved - Scroll to Top button by providing new customizer settings and also enabling its support for mobile devices. https://tppr.me/jgiq9
+Fixed - Properties search form's property types value retention issue on search results page.
+Fixed - Location field selection issue on properties search form.
+Fixed - Search form fields duplication issue.
+Fixed - Min and Max prices validation bug.
+Fixed - Search form widget styles issue in sidebar in Classic design.
+Fixed - Compare properties template's header background image display issue.
+Fixed - Search page map issue in footer area in Classic design.
+Fixed - Price formatting bug in mortgage calculator module and widget for property single.
+Fixed - Various other minor issues.
+Improved - Various other minor things.
+
+
+-----------------------------------------------
+VERSION 3.12.1 – UPDATED ON 10th December 2020
+-----------------------------------------------
+Fixed - Issues after testing with WordPress 5.6
+Improved - Code after testing with PHP Version 8
+Updated - Child Theme
+
+
+-----------------------------------------------
+VERSION 3.12.0 – UPDATED ON 3rd December 2020
+-----------------------------------------------
+Introduced - A big new feature of Vacation Rentals ( search: https://tppr.me/8xIYV , rental data: https://tppr.me/6HUYu ) with Booking functionality ( https://tppr.me/RvVKD ), Availability calendar ( https://tppr.me/6FdTp ) and various other additions & improvements in this regard. A fresh demo and demo-import is added to represent this feature.
+	- Demo: https://vacation-rentals.realhomes.io/
+	- Setup Guide: https://realhomes.io/documentation/vacation-rentals-setup/
+Introduced - Freshly designed user's frontend Dashboard ( https://tppr.me/IpBXE ) so that user can add/submit properties ( https://tppr.me/uT77P )  + manage those, manage his favorites ( https://tppr.me/9AkU4 ), manage his profile information ( https://tppr.me/OM7PF ) and manage his membership subscription ( https://tppr.me/X8uXx ). This new dashboard will be common for all design variations and is a replacement for existing templates ( Submit Property, My Properties, Edit Profile, Favorites and Memberships ). So these existing templates are deprecated as all future functionality will be introduced around this new Dashboard.
+Added - New Elementor Widget for Cities/Locations ( https://tppr.me/2HBk7 )
+Added - New Elementor Widget for Testimonials ( https://tppr.me/5MdSR )
+Added - New Elementor Widget for Call to Action ( https://tppr.me/GWHAy )
+Added - Option to switch from precise map location to approximate location. ( https://tppr.me/gBI3h )
+Improved - Property Additional Details fields user interface ( https://tppr.me/jhsdQ ) and database structure. Also added related migration script to auto-migrate old fields data to new fields. Also added these fields to REST API ( https://tppr.me/fCb5Y ).
+Improved - Energy Performance feature by making it more flexible and customizable ( https://tppr.me/5gDl2 ). You can now add/modify/remove as many energy classes as you want and you can assign custom color to each energy class.
+Improved - Homepage sections re-ordering setting's user interface from swap & replace to drag & drop.
+Improved - Property detail page sections re-ordering setting's user interface from swap & replace to drag & drop.
+Improved - Existing Elementor widgets to work with Vacation Rentals ( https://tppr.me/HRAaC ).
+Improved - search form fields by introducing multi select functionality for couple of fields. ( https://tppr.me/hTWBZ )
+Improved - User & Agent/Agency synchronization functionality.
+Improved - Elementor custom template support for custom post type single pages and custom taxonomy archive pages.
+Improved - Favorite properties & Compare properties features and made these more efficient & cache friendly by replacing the use of cookies with the use of JavaScript localStorage.
+Improved - Breadcrumbs for Property detail/single page.
+Improved - Moved deprecated customizer settings related to submit property, edit profile, my properties, memberships and favorite pages to separate tab titled as "Deprecated". ( https://tppr.me/se0lS )
+Improved - Mortgage Calculator's options to restrict it to display on properties with specific status.
+Improved - User interface of existing select boxes by replacing select2 with bootstrap-select.
+Improved - Contact Information Widget for Footer by adding click-ability to given contact number.
+Improved - Property ratings user interface.
+Improved - Dynamic Locations fields by making it WPML compatible.
+Improved - Field Builder by adding WPML support.
+Improved - Overall WPML compatibility.
+Improved - Property print styles.
+Improved - Properties shortcode by adding AJAX pagination.
+Improved - Property Gallery meta box description.
+Improved - Styles at various places.
+Improved - Code through refactoring.
+Fixed - WPML translated property edit issue.
+Fixed - Featured property selection issue while submitting property through frontend.
+
+
+------------------------------------------
+VERSION 3.11.1 – UPDATED ON 12 August 2020
+------------------------------------------
+Added - Freshly designed Mortgage Calculator module and related widget for property detail page. This module comes with two design variations ( Circle and Line ) and its calculations are integrated with currency switcher.
+Improved - Contact Form Widget by adding Property URL and Property Title support in resulted email when used on single property page.
+Improved - Number of images cropped in result of an image upload. We have refactored whole code across the theme to utilise fewer number of image sizes and provided new options in Misc customizer panel to disable default image sizes cropped by WordPress that are not being used in RealHomes.
+Improved - Number of scripts and styles files included on page load to optimise performance. Also removed FontAwesome 4 and updated all icons usage to FontAwesome 5.
+Improved - REST API support by including update meta support.
+Improved - Menu behaviour for mobile screens, menu now flyback when user taps on rest of the screen.
+Improved - Agents and Agencies WhatsApp contact numbers by making them clickable to open in WhatsApp.
+Improved - Featured properties widget by adding option to randomise properties.
+Improved - Property Views/Analytics front-end code to make it even more efficient.
+Improved - Login & Register page template by adding social login support.
+Improved - Submit and Add to Favorite buttons behaviour by linking them to login popup if login requirements enabled.
+Improved - Customizer's typography application consistency.
+Improved - Footer copyright text by adding fallback text with dynamic date support and new option to show/hide.
+Improved - Demo Imports by moving related files to separate plugin named as "RealHomes Demo Import"
+Fixed - Profile icon issue in header if user has no Gravatar icon.
+Fixed - Gutenberg taxonomy UI bug related to Property Features and Property Types.
+Fixed - WalkScore map bug.
+Fixed - Color reset bug on child theme activation.
+Removed - Quick CSS setting and related code as it was deprecated many updates earlier. 
+Updated - Translation Files.
+Updated - Included Plugins.
+
+
+-----------------------------------------
+VERSION 3.11.0 – UPDATED ON 26 June 2020
+-----------------------------------------
+Added - Properties Search Form Elementor widget that comes with lots of flexibility and customizability.
+Added - Custom built currencies switcher with super easy configurations. So no third party plugin is required now and newly engineered currencies switching functionality works in a smooth and reliable way.
+Added - Custom Web-hooks URL support to feed agents and contact forms data to services like Zapier that you can integrate with CRMs like Zoho CRM.
+Improved - Social Login support for Facebook, Twitter and Google by adding custom built functionality based on latest APIs. So no third party plugin is required not for social login.
+Improved - Price display for property detail page by adding discounted price support.
+Improved - Front-end Edit Profile page by adding website and address fields support.
+Improved - Front-end Edit Profile page’s layout for Classic.
+Improved - Front-end Property Submission form’s gallery images upload module by improving its functionality.
+Improved - Front-end Property Submission by adding option to customize message that appears after property submission.
+Improved - Property price fields by adding price format preview while adding digits.
+Improved - Registration form’s support for additional fields.
+Improved - Social sharing by adding LINE support.
+Improved - Agent single page by adding customiser settings to show/hide properties.
+Improved - Agencies templates by adding sorting controls support through customizer settings.
+Improved - Homepage metabox based featured properties module by including max number of properties option.
+Improved - Property video module by adding YouTube no-cookie video embed support.
+Improved - Property detail page’s layout functionality by adding metabox option to override global template/layout settings.
+Improved - Property detail page’s full width layout by adding breadcrumbs support for Modern.
+Improved - Property detail page’s features module by adding option to enable/disable link to archive pages.
+Improved - Property meta boxes styles.
+Improved - Property detail page attachments module for Modern.
+Improved - Property submit button related options.
+Improved - Website field support for agents and agencies.
+Improved - Properties Grid Two Elementor Widget by adding new option to show/hide date.
+Improved - Properties templates filter settings by adding new option to display only featured properties.
+Improved - News Grid Elementor Widget by adding new option to show/hide date.
+Improved - Homepage default slider’s height for small screen devices.
+Improved - Property views functionality.
+Improved - Styles at various places.
+Improved - Translation support.
+Fixed - Google Maps issue on half map search template when no properties were found.
+Fixed - Sub menu overlapping issue in Classic.
+Fixed - Classic single property gallery slider issue in Firefox.
+Fixed - Custom taxonomies loading issue in Gutenberg.
+Updated - Translation files for German, Spanish, French, Italian, Portuguese and Turkish languages.
+Updated - Included plugins.
+
+
+----------------
+Version 3.10.2
+----------------
+Added - Guest property submission support.
+Added - Property attachments support to front-end property submission.
+Added - Features Elementor widget.
+Added - Login dialog Elementor widget ( for custom built headers ).
+Added - Contact form widget for sidebars and footer widget areas.
+Added - Slider Revolution support to the 'Contact Form Over Slider' module in home template.
+Added - Custom built 'RealHomes PayPal Payments' plugin for the individual property payments.
+Added - Grid layout support for the properties search templates in Modern design.
+Added - Agency selection field to user's front-end edit profile page.
+Added - New setting to upload custom placeholder image for properties with no featured image.
+Added - Agent based grouping support for similar properties module on property detail page.
+Added - Description support for property custom taxonomies(Property City, Property Status, Property Type and Property Feature) archive pages.
+Added - New meta box to show/hide properties search form on property detail page in Modern design.
+Added - New fields (Website and Office Address) to the Agents and Agencies.
+Added - New setting to redirect user to a specific page after agent's contact form submission.
+Added - Sorting controls support to the agents list template.
+Added - New setting to redirect user to a different page after successful property submission.
+Added - New style setting to change the footer background colour for Classic design.
+Added - New setting to show/hide banner title in Modern design.
+Added - WordPress page password protection support to properties templates.
+Added - Properties filter to Gallery templates.
+Added - filter hooks to query arguments in sidebar widgets for extensibility and customizability.
+Added - filter hooks to query arguments in all Elementor widgets for extensibility and customizability.
+Added - WPML support for all Elementor widgets.
+Added - Properties search form fields drag and drop feature's localisation support for WPML.
+Improved - Memberships packages and their purchasing process.
+Improved - RealHomes Stripe Payments plugins for individual property payments.
+Improved - Theme SVG and raster icons inclusion to make them overridable from the Child theme.
+Improved - New user registration email template.
+Improved - Property analytics
+Improved - Sticky header in Classic design.
+Improved - Header styles for mobile in Classic design.
+Improved - Header Avatar in Modern design.
+Improved - Customizer settings localisation with WPML.
+Improved - User navigation on the properties favourite page in Modern design.
+Improved - Search width styles in Modern design.
+Improved - Property Types widget styles in Modern design.
+Improved - Properties Search form markup so its fields styles can be modified individually via CSS in Modern design.
+Improved - Main menu responsive style option.
+Improved - Individual Stripe Payments for the properties.
+Improved - Property print styles in Classic design.
+Fixed - OpenStreet maps cluster icon issue when some properties locations are same or very close.
+Fixed - Properties thumbnail issue on OpenStreet Map.
+Fixed - Publish property issue after purchasing a membership. 
+Fixed - Phone number duplication issue on Contact page in Classic design.
+Fixed - Long property title display issue in next/previous property link on property detail page.
+Fixed - Thumbnails dimensions issue at few places.
+Fixed - First slide margin issue of Featured Slider Elementor widget for Modern design.
+Fixed - Forgotten Password link issue in Classic design.
+Fixed - Login/Register forms validation issue.
+Fixed - Banner hiding issue while using second header variation in Modern design.
+Fixed - Incorrect property popup issue on inner pages when using Half Map Property Template in Modern.
+Fixed - Gallery images max files upload issue on the submit property page.
+Fixed - Property video section's title missing console warning on property detail page.
+Removed - PayPal IPN plugin requirement from the theme.
+
+
+----------------
+Version 3.10.1
+----------------
+Improved - Contact form over slider.
+Improved - Login & Register page related code in header.
+Improved - Code with respect to W3 validation.
+Improved - Styles at various places.
+Improved - Info window styles.
+Improved - Compare properties floating feature.
+Improved - Translation for membership related stuff.
+Improved - reCAPTCHA V3 related code.
+Added - Metabox to change slides CPT based slider's button text
+Fixed - Properties sorting global option's implementation in properties list and grid templates.
+Fixed - Property Views for Full Width Property.
+Fixed - Sticky footer issues in Modern.
+
+
+--------------
+Version 3.10
+--------------
+Added - Search Form Over Image module for Modern Design with related settings in homepage's metaboxes.
+Added - Fresh design for Login & Register dialog to improve user experience, related customization options are provided through customizer.
+Added - Property Field Builder, Now you can add new fields to property. Newly added fields can also be used in properties search form and property submit form.
+Added - Dynamic Location field support to handle large number of locations in database, related settings provided under Search Form Locations.
+Added - Property Views/Analytics module for property detail page with related settings.
+Added - WalkScore Support for Property Detail Page.
+Added - Yelp Nearby Places Support for Property Detail Page.
+Added - reCAPTCHA 3 support with related plugin settings. ( reCAPTCHA 2 is still supported )
+Added - Markers Cluster Support for OpenStreetMap.
+Added - Customizer option and metabox field to replace agent & agency contact form globally and individually with a third party form's plugin.
+Added - Professionally designed email template for contact, agent and agency emails, with related customizer settings to change its styles.
+Added - Responsive header's style customization options for Modern.
+Added - New Child/Sub Properties variation to display sub/child properties in tabular format.
+Added - Global setting in customizer to choose default template for property single.
+Added - Core Property Meta Data and Taxonomies to Properties RSS Feed.
+Added - Instagram field to front end profile edit template.
+Added - Option to show/hide advance search expander button for Modern
+Added - Option to control the number of similar properties to display.
+Added - Option to customize 'No results found!' text on search results template.
+Added - Global option to choose property detail page's gallery layout.
+Added - Option of Excerpt Length for properties grid and list layouts.
+Added - Option to control number of properties to mark on map for properties archive pages.
+Added - Options to exclude property statuses from search form.
+Added - Added Excerpt option for Properties Elementor widgets.
+Added - Support for Elementor – Header, Footer & Blocks plugin.
+Improved - Half Map Template's map.
+Improved - Elementor widgets by including layout columns setting in necessary widgets.
+Improved - Elementor News/Blog Posts widget by introducing dynamic pagination.
+Improved - Partners Elementor widget by adding image size option.
+Improved - Elementor Pro compatibility by providing custom logo support.
+Improved - Banner customization ability by providing more customization options under styles panel.
+Improved - Memberships page's functionality.
+Improved - Property Grid and List layout styles.
+Improved - Contact page map's longitude and latitude fields parsing to handle corrupted values.
+Improved - Property price code by adding WordPress filter hook to customize it using child theme.
+Improved - Settings and code for number of properties to display on a page.
+Improved - Profile picture priority over gravatar in modern user menu.
+Improved - Property Features list on property single in modern.
+Improved - Search Form Over Image for Modern.
+Improved - iPanorama 360 Pro support.
+Improved - Footer in case of low or no contents.
+Improved - Updated FontAwesome to Version 5
+Improved - WPML translation support by adding couple of missing strings to wpml-config and improving code at couple of places with respect to WPML.
+Improved - Plugins & TGM code.
+Improved - Metaboxes related code in overall theme.
+Improved - Refactored & Improved overall code with respect to Envato's latest requirements.
+Fixed - Property Features custom uploaded icon display issue.
+Fixed - Contact Form Over Slider's inconsistent behaviour for Classic.
+Fixed - reCAPTCHA's overlapping on mobile screens.
+Fixed - Social Sharing show or hide option in customizer.
+Fixed - WhatsApp number link in header.
+Fixed - Custom labels inconsistency on compare properties page.
+Fixed - Drag & Drop for properties search form's fields.
+Fixed - Shared by email functionality.
+Fixed - Label background for Featured Properties widget in Modern.
+Fixed - Profile image duplication issue.
+Fixed - lang attribute in HTML tag.
+Fixed - Coordinates search on property submit page.
+Removed - scripts combining options and related functionality to load only required JavaScript on a page.
+
+
+--------------
+Version 3.9.6
+--------------
+Fixed - Virtual tour iframe embed code's sanitization issue.
+
+
+--------------
+Version 3.9.5
+--------------
+Added - Contact Form Over Slider feature.
+Added - Google Map with properties markers Elementor widget.
+Added - OpenStreetMap with properties markers Elementor widget.
+Moved - Home page settings from customizer to meta boxes so that multiple pages can be created using home template.
+Added - Properties Search Half Map Template for classic variation.
+Added - Energy Performance fields to property submit and edit forms.
+Moved - Google Maps default location settings to "Easy Real Estate" plugin
+Fixed - Skype username formatting issue.
+Fixed - Login dialog issue for Classic variation.
+Fixed - Hover styles for IOS devices.
+Improved - Featured properties widget by adding new text field to modify "View Property" button text.
+Improved - Select box "No Result Found!" text's translation support and customizability by providing related setting under Misc tab.
+Improved - Features icon from PNG to SVG.
+Improved - Ajax pagination for Elementor based properties widgets.
+Improved - Styles at various places.
+Improved - Styles for iHomeFinder.
+Improved - Contact widget by hiding empty fields.
+Improved - Child theme support.
+Improved - Code level customizability and extensibility.
+
+
+--------------
+Version 3.9.4
+--------------
+Fixed - Submit Property page styles.
+Fixed - Classic header FontAwesome issue.
+
+
+--------------
+Version 3.9.3
+--------------
+Improved - Compare Properties Template.
+Improved - Submit Property page with respect to Elementor.
+Improved - Classic sticky header styles.
+
+
+--------------
+Version 3.9.2
+--------------
+Added - 2 New Elementor Widgets for Featured Properties.
+Added - WordPress Users and Real Estate Agent/Agency synchronization feature. After enabling it, the system will automatically add a new agent/agency for a newly registered user and related agent/agency information will be updated with an update in user information. It will work vice versa for users when new agent or agency will be added or updated.
+Added - Theme location API support for Elementor Pro to add custom header and footer using Elementor Pro.
+Added - A new sidebar widget to display properties based on any number of property locations, property statuses, property types or property features.
+Added - Option to add custom styles for Google Maps.
+Added - Option to limit property details page access to logged-in users.
+Added - Option in Elementor Properties Widgets to show only Featured properties.
+Added - Lot Size and Lot Size postfix fields in frontend Property Submit Form.
+Added - Option to redirect the user to a custom page on successful login.
+Added - Metabox options to manage margins and spacing for various page templates ( These options provides more customizability in making custom layouts especially using Elementor ).
+Added - Social icons flexibility by providing settings to add any social network by adding related icon and URL.
+Added - Option to exclude Sold and Rented properties from Search Results and Featured Properties.
+Added - Automatic theme and plugins update functionality based on purchase code verification.
+Added - Polylang plugin compatibility.
+Added - Scroll To Top button in Modern variation.
+Improved - Elementor Properties widgets by adding customizable setting for Featured label.
+Improved - Tap To Call support from mobile devices for all phone numbers displayed in RealHomes theme.
+Improved - Contact page by moving its settings from customizer to page meta, So that multiple contact pages can be created.
+Improved - Property meta labels settings.
+Improved - Overall Elementor support for all RealHomes templates.
+Improved - Open Graph support for property detail page.
+Improved - Property Features modification on frontend property edit page.
+Improved - Options to change fonts.
+Improved - Homepage slider loading.
+Improved - Login button for mobile devices.
+Improved - Login & Register page.
+Improved - GDPR text by adding anchor tag support.
+Improved - My Properties template for mobile devices.
+Improved - Various other things across the theme.
+Fixed - WhatsApp share option on Property detail page.
+Fixed - Android soft keyboard appearance in search form fields.
+Fixed - Elementor Properties widgets Favorite tooltip.
+Fixed - Properties shortcode styles for Full-Width template.
+Fixed - Dynamic property label text colors issue.
+Fixed - Dynamic colors for Property List/Grid icons.
+Fixed - iPhone SE viewport issue.
+Fixed - JS issue on iPad 3 and below.
+
+
+--------------
+Version 3.9.1
+--------------
+Fixed - Elementor Classic Properties Widget Pagination.
+
+
+--------------
+Version 3.9.0
+--------------
+Added - Two newly designed Elementor widgets that displays properties in a more comprehensive and impressive way.
+Added - Ajax pagination for Elementor properties widgets.
+Added - Drag and drop sections manager for property detail page.
+Added - Energy Performance module for property detail page.
+Added - Full width template for Classic property detail page.
+Added - iPanorama 360 plugin support for virtual tours.
+Added - New filters for admin side properties list, to manage properties even more easily.
+Added - New floating design for compare properties, language switcher and currency switcher.
+Added - Compare functionality to Elementor properties widgets and homepage properties sections.
+Added - Sort by price functionality for admin side properties.
+Added - Search on My Properties page to manage properties more easily.
+Added - Settings to modify zoom level and map type for each Google Map module.
+Added - Full width template for blog posts.
+Added - Page meta box to hide advance search form
+Added - Page meta box to hide banner title.
+Refactored Code - Moved price format, URL Slugs, Maps, reCAPTCHA, Social Networks and GDPR settings to Plugin as on overall strategy is to separate theme territory and plugin territory functionality.
+Refactored Code - Made lots of code improvements to fulfil Envato's latest theme requirements.
+Improved - Design variation selection area by adding more useful resources to it.
+Improved - Property detail page slider image handling behaviour for images with greater height.
+Improved - Various minor things related to Elementor widgets.
+Improved - Markup at various places with respect to SEO
+Improved - Partners section for Modern by adding setting to control number of partners to display.
+Improved - Agents and Agencies meta boxes layout.
+Improved - Logos related code for Modern by adding options to upload separate logo for mobile devices.
+Improved - Property rating code.
+Improved - Floor plans code for property detail page.
+Improved - Agents module code for property detail page.
+Improved - Contact widget code by allowing basic HTML formatting tags in its address field.
+Improved - Features section description by allowing basic HTML formatting tags support.
+Improved - Add to favorites code and added option to enable/disable it for non-logged in visitors.
+Improved - Full width properties list and grid layout by fixing their filter meta box bug.
+Improved - Classic blog's banner code by adding option to hide it's subtitle.
+Improved - Property submit button related code by adding options to show/hide for not logged in users and to change its text.
+Improved - Property submit template code by adding option to limit number of images allowed to upload.
+Improved - Responsive menu for Modern.
+Improved - OpenStreetMap height for mobile devices
+Improved - RTL support for admin side properties managements.
+Improved - Login and Register templates code.
+Improved - Overall meta box code.
+Improved - Forms plugin support by adding styles for WP Form Lite plugin.
+Improved - Elementor pro compatibility.
+Fixed - Area postfix text in Classic Properties widget.
+Fixed - Properties hover effect for IOS devices.
+Removed - Google+ from Social Networks
+
+
+
+--------------
+Version 3.8.4
+--------------
+Fixed - Real Homes design switching page layout after WordPress 5.2 update.
+
+
+--------------
+Version 3.8.3
+--------------
+Added - WhatsApp share option for property.
+Added - Color settings for modern sticky header.
+Added - Setting to change Agent word on modern property detail page.
+Improved - Property gallery slider for modern to better handle portrait images.
+Improved - Share by email option for modern.
+Improved - Modern homepage's code
+Improved - Contact page's address field support for HTML tags.
+Fixed - Property colored label support for modern properties search results.
+Fixed - Login related bug in modern while using reCAPTCHA
+Fixed - Properties count on modern my properties page.
+Fixed - Map info window on classic property detail page.
+Fixed - Wrong phone number bug in classic that appears on iPhone.
+Removed - Google+ share option with respect to Google policy.
+Improved - Couple of other minor things.
+
+
+--------------
+Version 3.8.2
+--------------
+Fixed - Header styling issues from customizer.
+Fixed - Console messages due to duplicate for field IDs.
+Fixed - Submit property template's location field bug.
+Improved - Couple of other minor things.
+
+
+--------------
+Version 3.8.1
+--------------
+Fixed - "Any" option repetition bug in location search field of Modern.
+
+
+--------------
+Version 3.8.0
+--------------
+Important Note: We have made a directional change in development of Real Homes theme and moved plugin territory functionality to a new plugin named "Easy Real Estate". So make sure to install and activate it after this update. Normally you will get an auto install message that you can follow, But if you have dismissed plugin install dialog then this might not appear for you. So make sure to install it by visiting Appearance > Install Plugins page.
+
+Major Addition:
+- Added Elementor Page Builder Support and provided 14 Real Homes based widgets that can be used on any page.
+	- Properties Grid Widget
+	- Featured Properties Carousel Widget
+	- Agents Grid Widget
+	- Partners Widget
+	- News Grid Widget
+	- Section Title Widget.
+	- Big Single Testimonial Widget
+	- Call to Action Widget
+	- Call to Action 2 Widget
+	- Classic Slogan Widget
+	- Classic Properties Grid Widget
+	- Classic Featured Properties Carousel Widget
+	- Classic Features Widget
+	- Classic News Grid Widget
+- Added 2 new Elementor based demo imports.
+
+Added - Two new header design variations for Modern.
+Added - Transparent and Solid header design options for responsive header in Modern.
+Added - New full width property detail page layout for Modern.
+Added - Full width properties grid template for Classic and Modern.
+Added - Half Map with properties layout support for Classic.
+Added - Floor Plans support for front end property submit form.
+Added - Support of new Lightbox named 'Venobox'
+Added - Support for all Gutenberg Blocks
+Added - REST API support for Property and related meta.
+Added - REST API support for Agent and related meta.
+Added - REST API support for Agency and related meta.
+Added - Sticky header support for Modern.
+Added - Retina logo support.
+Added - Retina logo support for partners.
+Added - Banner support for Modern homepage.
+Added - Option to switch phone icon with WhatsApp icon in header.
+Added - More customizer settings to further help with customizability.
+
+Improved - Property featured image rendering in Google Maps information box to improve maps performance.
+Improved - Compare properties module to display message when more than 4 properties are added to comparison.
+Improved - Customizer settings.
+Improved - WPML language switcher support for Modern.
+Improved - Mailchimp for WordPress styles for overall theme.
+Improved - Property detail page's gallery code.
+Improved - Meta-boxes code.
+Improved - Various other minor things across the theme.
+
+Fixed - OpenStreetMap's appearance bug in meta boxes.
+Fixed - Prices fields bug for Search Form Over Image in Classic.
+Fixed - 4 columns search results template's grid styles issue.
+Fixed - Price postfix bug on front end property edit page.
+Fixed - dsIDXpress styles inconsistency that appeared after their recent update.
+Fixed - Various other minor issues that are hard to track in such a big update.
+
+
+--------------
+Version 3.7.1
+--------------
+Tested with WordPress 5.0 RC3.
+Fixed few styles related issues.
+Fixed search form over image section's price field issue.
+
+
+--------------
+Version 3.7.0
+--------------
+Developed a purpose oriented CRM ( Customer Relations Management ) Plugin for Real Homes to help our customers get more out of their business leads.
+Added - drag & drop fields manager for search form.
+Added - property features field support for Modern search form.
+Added - customization option to display custom number of fields in top row of search form ( Modern ).
+Added - Agents widget.
+Improved - Property print styles and added QR code support.
+Improved - Property submit code to not accept empty values in additional details.
+Improved - Various minor things across the theme.
+Fixed - Add to favorite button functionality for homepage properties pagination ( Modern ).
+Updated - Translation files.
+
+
+--------------
+Version 3.6.1
+--------------
+Major improvements in Classic's blog layout.
+Added - Thumbnails based property images slider support for Modern.
+Improved - Modern properties search results page to have layout without map.
+Improved - WPML Language switcher for both design variations.
+Improved - Various minor things across the theme.
+Added - Spanish language translation files pack ( Human Translated ).
+Added - French language translation files pack ( Human Translated ).
+Added - Italian language translation files pack ( Human Translated ).
+Added - German language translation files pack ( Human Translated ).
+Added - Portuguese language translation files pack ( Human Translated ).
+Added - Turkish language translation files pack ( Human Translated ).
+
+
+--------------
+Version 3.6.0
+--------------
+Big Addition: Added Open Street Map support for all map places in Modern & Classic. Including admin side property add/edit page and front end property submit and edit page.
+Added - Homepage sections manager for Modern.
+Added - Blog/News sections for Modern homepage.
+Added - Ajax based pagination for homepage properties in Modern.
+Added - Ajax based property removal for My Properties page template for Modern & Classic.
+Added - Custom text color and background color options for homepage sections for Modern.
+Added - REST API support for property, agent, agency and partner post type and related taxonomies.
+Added - Multiple new translation files to cover certain parts of theme. Like separate file for Classic and Modern etc.
+Fixed - Duplicate reCAPTCHA on agent single for Modern
+Fixed - Mailto link on agent single for Modern
+Fixed - Display Email's inconsistent behavior on Contact page for Classic.
+Fixed - Inconsistent behavior of featured properties on top option in search results for Modern & Classic.
+Fixed - Special character decoding issue for property marker mouse over title in Google Map.
+Improved - Search form over image section for classic by adding parallax to it.
+Improved - Maps related code in overall theme.
+Improved - Titles and headings markup of pages and posts.
+Improved - Meta boxes code especially related to property.
+Improved - Maps related customizer settings and moved them to a separate section under main panel.
+Improved - Contact related customizer settings and moved them to a separate section under main panel.
+Improved - Google reCAPTCHA related customizer settings and moved them to a separate section under main panel.
+Improved - Various other things related to Customizer settings.
+Improved - Homepage code for Modern especially with respect to RTL and Parallax.
+Improved - Homepage slider for mobile devices.
+Improved - Dropdown select box styles.
+Improved - WPML configuration file.
+Improved - SVGs in couple of places.
+Deprecated - Quick CSS customizer setting.
+Updated - Translation files.
+
+
+--------------
+Version 3.5.2
+--------------
+Added - Breadcrumbs support for property detail page in modern design variation.
+Fixed - Sorting bug that was appearing when featured properties on top was enabled in search results and archives.
+Fixed - Gutenberg compatibility.
+Improved - RTL styles.
+Improved - Grid layout styles
+Improved - Menu styles.
+Improved - Older PHP versions compatibility.
+Improved - Translation support.
+Improved - WPML support.
+Improved - Other minor styles.
+Updated - Translation files.
+
+
+--------------
+Version 3.5.1
+--------------
+Added - GDPR agreement checkbox support for all forms.
+Fixed - WPML blank screen issue that appeared after latest WPML update.
+Improved styles at few places.
+
+
+--------------
+Version 3.5.0
+--------------
+Added - Real Estate Agencies support.
+ReEngineered - Theme styles customization options.
+Added - Agent search field in Advance Search form.
+Added - Fluid width template.
+Added - Homepage diagonal section angle enable/disable option.
+Added - Footer widgets area columns control option.
+Added - Social login support for Modern design variation.
+Added - Currency switcher support for Modern design variation.
+Added - Four columns footer support for Modern design variation.
+Added - Advance Search label edit option as text for Modern design variation.
+Added - SVG support for several icons where png icons were used.
+Added - Pages title explode enable/disable option.
+Improved - Contact information widget by adding title field.
+Improved - Main Menu colors for active child/parent buttons.
+Improved - Visual Composer element tab.
+Improved - Search page's found results counter.
+Improved - Property fields description.
+Improved - User dropdown in header area.
+Improved - Agent contact information fields color.
+Improved - Styles for iHomefinder Optima Express plugin.
+Improved - Auto focus to user login form after its dialog box displays.
+Fixed - Properties index page access issue with contributor or editor role on backend.
+Fixed - Infinite loop bug for dsIDXpress pages.
+Fixed - Main menu buttons description minor style issue.
+Fixed - Gravatar loading problem on SSL enabled site.
+Fixed - Compare properties missing placeholder image issue. 
+Fixed - Property deletion redirect issue on SSL enabled site.
+Fixed - Minor RTL and other style issues.
+
+
+--------------
+Version 3.4.1
+--------------
+Improved - Properties search page for classic by adding One Column, Two Columns and Four Columns layout variations.
+Improved - Sidebar's properties search widget for classic, By adding expand/collapse option to show/hide few fields.
+Improved - Property meta fields by providing options to customize labels.
+Improved - My Properties page by adding translation support for property statuses.
+Improved - Properties short-code compatibility with WPML and Visual Composer.
+Improved - Icons for properties gallery templates.
+Fixed - Main menu item description's style issue.
+Fixed - Social Share icons missing issue for property detail page.
+Fixed - Add to Favorite button show/hide issue.
+Fixed - Google Map marker's display issue for the property edit page on admin side.
+Fixed - Property sharing issue using Google+.
+Fixed - Real Homes admin side menu access issue for users with Editor role.
+Fixed - Properties Search form's fields disabling on hitting browser back button.
+Updated - Theme packed plugins and extensions.
+Updated - Theme translation files.
+
+
+--------------
+Version 3.4.0
+--------------
+Major Change: Refactored and reformatted code across the theme to make it even simpler to understand and easier to customize.
+Added - Lot size field for property which is displayed with property meta on property detail page.
+Added - Agents filter metabox for properties templates.
+Added - Property ratings feature. A user can rate a property with comment.
+Added - Agents support in properties shortcode and related compatibility for Visual Composer.
+Improved - Admin side by collecting Real Homes related stuff under on admin menu.
+Improved - Property submit image upload code.
+Improved - Property submit code to remove empty price from database.
+Improved - Comments relate code.
+Improved - Added URL support to homepage features.
+Improved - Metabox related code and fixed various bugs related to meta boxes.
+Fixed - Agent display option bug on submit property page.
+Fixed - RTL Styling Issues.
+Fixed - Password update confirmation bug.
+Fixed - Various styles bugs.
+Added - Option to remove/change advance search label image ( Modern ).
+Added - Search form for full width template ( Modern ).
+Improved - Advance search form is now expandable on mobile devices ( Modern ).
+Improved - Memberships template code for ( Modern ).
+Fixed - Agent page bug ( Modern ).
+Fixed - Swipe lightbox RTL issue ( Modern ).
+Fixed - Agent section bug on homepage (Modern).
+Fixed - Agents name on Properties List layout ( Modern ).
+Fixed - Hard coded property status from slider ( Modern ).
+Added - Overlay and related settings for Search Form Over Image homepage variation ( Classic ).
+Added - Blog post tags ( Classic ).
+Improved - Homepage features background image related code.
+Fixed - Year Built bug ( Classic ).
+Fixed - Lightbox settings ( Classic ).
+Improved - Modal login appearance to fix scroll issue when using reCAPTCHA and Social Logins ( Classic ).
+Updated - Included Plugins
+Updated - Translation files
+Removed - Property views feature due to various logical reasons.
+
+
+--------------
+Version 3.3.1
+--------------
+Added - Agent contact form in sidebar for Property Details page in modern design.
+Added - Support for Page Contents to all page templates in both design variations.
+Added - Selective Refresh Support for Widgets.
+Added - Property Filter Options for Gallery Templates.
+Added - Next and Previous button on Property Details Page in Modern variation
+Added - Year Built Property Field
+Added - Support for print styles for Property Details Page in Modern variation
+Added - Filters hooks for labels and other function arguments for Agents, Properties, Slides, and Partners Custom Post types
+Added - Login link on Member pages.
+Improved - Updated Google Fonts
+Improved - Translation strings on Membership Template Page in Modern variation
+Improved - Customizer options for Footer Logo in Modern variation
+Improved - Meta boxes layout in Property Listing and Grid Listing Templates
+Improved - Favorites settings by Moving Favorites section to the main Customizer panel
+Improved - Compare Properties settings by Moving related settings to a new panel in main Customizer panel
+Improved - Reorganized Price Format and URL Slugs panel in Customizer
+Improved - Changed default setting of header to banner in Modern variation
+Improved - Property Video on Property Details page
+Improved - Property views and related settings.
+Removed - Admin notice for version 3.0.0 update
+Fixed - Default label for Terms and Conditions option
+Fixed - Google Maps info box size and position
+Updated - Included Plugins
+Updated - Translation files
+
+
+--------------
+Version 3.3.0
+--------------
+Added - dsIDXpress Pro support
+Added - iHomeFinder support
+Added - Enable/Disable option for property address
+Added - Alert note in Advance Search form widget if related settings are not configured
+Added - Theme color for theme widgets on (backend) widgets page
+Added - HTML tags support for Homepage sections description areas
+Added - Sidebar agent in print window
+Added - Pagination support to Properties VC shortcode
+Added - Property ID auto generation from admin side
+Improved - Visual Composer Properties shortcode
+Improved - Main menu appearance
+Improved - Homepage sections heading & description areas
+Fixed - Search page pagination when selected as Homepage
+Fixed - Some styling issues
+Fixed - Header search form overlap issue with main menu
+Fixed - SSL issue with Google Fonts
+Fixed - Minor Internet Explore issues
+Removed - Deprecated Customizer settings
+Updated - Included Plugins
+Updated - Translation files
+Updated - Theme Documentation
+
+
+--------------
+Version 3.2.0
+--------------
+Added - iHomeFinder plugin support
+Added - dsIDXpress Pro plugin support
+Fixed - Minor styling issues
+Updated - Translation files
+Updated - Theme Documentation
+
+
+--------------
+Version 3.1.0
+--------------
+Added - Multiple agents selection support on front-end property submit page
+Added - A customizer setting to change ‘Know More’ buttons text
+Added - Option to change property type icons for Google Maps
+Added - Property views on property detail pages
+Added - An option to stick property at top on home and other listing pages
+Added - Metabox for Custom label support on property cards with custom background colors
+Added - Whatsapp number for agent.
+Added - Garage field in Advance Search form
+Added - Custom icons support for property features
+Added - Customizer setting to change Sq Ft measurement units
+Added - Polylang and Loco Translate free plugins support for translation
+Improved - Favourite and Print buttons - Classic
+Improved - Metaboxes layout and fields description
+Replaced - Old mobile menu with Hamburger menu - Classic
+Fixed - Add to favourite label z-index - Modern
+Fixed - Customizer settings styles for RTL
+Updated - Included Plugins
+Updated - Translation files
+Updated - Theme Documentation
+
+
+--------------
+Version 3.0.2
+--------------
+Added - Property address on the property detail page - classic design
+Added - Property custom meta fields support through WP hook
+Added - Terms and conditions field on the property submission page
+Added - Property default ‘additional fields’ support on property submission page
+Added - 360 virtual tour support on property detail page
+Added - Different filter controls for the similar properties
+Fixed - Properties visual composer element errors and warnings
+Fixed - Featured properties scroll on mobile devices
+Fixed - Some RTL layout style issues.
+Fixed - Some other minor style issues
+Resolved - theme reCAPTCHA conflict with Contact Form 2 reCAPTCHA
+Updated - Included plugins.
+Updated - Theme documentation.
+Updated - Translation files.
+
+
+--------------
+Version 3.0.1
+--------------
+For Modern Design Variation.
+* Added - Confirmation buttons to remove property on my properties page.
+* Added - Google fonts support.
+* Added - Styles ( color controls ) customizer settings.
+* Improved - Sorting select box for properties pages.
+* Improved - Contact page’s map styles.
+* Improved - Page’s heading.
+* Improved - Property submit map styles.
+* Improved - Spacing on homepage.
+* Improved - News/Blog page styles.
+* Improved - WPML configuration XML file to support new customizer settings.
+* Fixed - Widgets spacing on property detail page.
+* Fixed - Pagination’s next and previous buttons.
+* Fixed - Agent’s mobile and office numbers positions.
+* Fixed/Improved - Various small things.
+* Updated translation files.
+
+
+--------------
+Version 3.0.0
+--------------
+* Added a completely new design variation named “Modern” which provide a new design for all major modules and templates.
+
+
+--------------
+Version 2.7.0
+--------------
+* Added - Memberships using PayPal, Stripe and Bank Transfer as Payment Options.
+* Added - Stripe payments for individual properties. ( Can be used instead of Memberships )
+* Added - Support of MailChimp for WordPress
+* Added - V2 Google reCAPTCHA ( replaced old reCAPTCHA with new V2 reCAPTCHA with seamless switching for existing websites )
+* Added - Google reCATPCHA support for login, register and forgot password forms for SPAM protection.
+* Added - Auto generated Property ID for front end property submit form ( can be enabled/disabled from settings )
+* Improved - Property Gallery lightbox to show/hide image title in lightbox.
+* Improved - Property Gallery lightbox to show/hide image title in lightbox.
+* Improved - Min Beds and Baths fields to accept 0 as value.
+* Improved - Modal dialog for login, register and forgot password.
+* Improved - Space utilization for mobile screens.
+* Fixed - Duplicate file bug on property submit page.
+* Improved various parts of Real Homes theme code for better user experience.
+* Updated translation files.
+
+
+--------------
+Version 2.6.4
+--------------
+* Added - Homepage sections order manager in customizer. This will help you change the order in which homepage sections appear.
+* Added - New design variation for featured properties section on homepage.
+* Added - New design variation for partners section on homepage.
+* Added - iHomeFinder Optima Express compatibility
+* Improved - WPML translation support for features section on homepage.
+* Improved various parts of Real Homes theme code for better user experience.
+* Updated translation files.
+
+
+--------------
+Version 2.6.3
+--------------
+* Added a features section for homepage. This new section is fully customizable and You can add 3,2 or 1 column features section with related heading and description. Visit Real Homes demo to check it out.
+* Added center variation for Real Homes header. So now you can display a center aligned header if you want. Visit Real Homes demo to check it out.
+* Added spiderify effect for overlapping map markers.
+* Improved print styles.
+* Improved lightbox video.
+* Fixed a conflict with WooCommerce.
+* Provided color settings for blog/news and gallery pages.
+* Improved various parts of code with respect to recent updates in WordPress.
+* Improved metaboxes related code
+* Updated translation files.
+
+
+--------------
+Version 2.6.2
+--------------
+* Added performance improvement settings for JS and CSS in “Customizer > Misc” section. If JS setting is enabled then one JS file is loaded instead of thirteen JS files and if CSS setting is enabled then compressed version of various css files are loaded to optimise page load speed.
+* Combined three main CSS files to reduce the number of CSS files loaded in a page.
+* Removed setting to disable responsiveness.
+* Updated couple of 3rd party scripts to their latest versions.
+* Fixed various styling issues, Including the ones related to RTL.
+* Improved translation support for “Results” word on search template.
+
+
+--------------
+Version 2.6.1
+--------------
+* Added new feature that allow visitors to compare properties. This feature can be enabled/disabled from settings.
+* Added Spanish translation ( Done by a hired professional )
+* Added support for social login. Now a user can login using any of the main social network.
+* Fixed - WPML conflict with properties list in WordPress dashboard that appeared after recent update in WPML.
+* Added comments support for property detail page.
+* Added info box for map icon on property detail page.
+* Added customizer setting to modify search behaviour of beds and baths fields.
+* Added customizer settings to modify theme’s typography using any Google Fonts.
+* Did various other minor improvements in overall theme.
+* Updated font awesome to version 4.6.3
+* Updated translation files.
+* Updated documentation.
+* Updated Visual Composer plugin included with in the package.
+
+
+--------------
+Version 2.6.0
+--------------
+* Added completely new module for homepage: Search Form Over Image ( with all related settings )
+* Added excerpt support for Agent custom post type
+* Added parent property field in submit property form
+* Refactored submit property code and placed each field into separate file to make it easy for customers to override fields in child theme.
+* Added live customizer settings to show/hide fields in submit property form.
+* Improved submit property code and fixed couple of minor bugs
+* Change video lightbox theme for property detail page
+* Fixed Google Maps info window open close issue
+* Fixed dsIDXpress https related issue
+* Updated translation files.
+
+
+--------------
+Version 2.5.6
+--------------
+* Added Google Maps API key settings in “Customizer > Misc” panel
+* Added next/previous navigation for property and blog post
+* Added clear all option for select boxes in properties list templates meta boxes
+* Added social fields for user profile page in WordPress admin side
+* Added instagram icon for agent
+* Added option to display featured properties on top in search results
+* Added new meta boxes to store property owner information. This information is not displayed on front end.
+* Added TinyMCE editor for property submit page
+* Added phone filed in agent’s contact form
+* Added option to display homepage properties randomly
+* Added scroll to top button color change options
+* Added styles for Mortgage Calculator plugin - https://wordpress.org/plugins/mortgage-calculator/
+* Added styles for Quick and Easy Tweets Plugin - https://wordpress.org/plugins/quick-and-easy-tweets/
+* Improve property map infobox by closing previously opened inbox
+* Improved meta boxes related code
+* Improved properties shortcode styles for floor plans description area
+* Fixed horizontal scroll issue
+* Fixed limited number of pending properties issue in admin side
+* Removed Google Analytics Settings due to security concerns, It is recommended to use a plugin for this purpose. For example https://wordpress.org/plugins/google-analytics-dashboard-for-wp/
+* Updated language files
+
+
+--------------
+Version 2.5.5
+--------------
+* Updated theme code to replace deprecated functions and make the theme compatible with WordPress 4.5
+* Added customizer settings to provide CC and BCC email addresses for contact page form.
+* Fixed a minor bug related to min beds and min baths
+* Fixed couple of other minor bugs
+
+
+--------------
+Version 2.5.4
+--------------
+* Re-coded select boxes for search form and other parts of theme to handle large number of entries and facility to search + scroll through those entries.
+* Refactored search form code to make every search field overridable by child theme.
+* Added customizer settings to change ‘Any’ word in search form and overall theme.
+* Added customizer settings to change values for Min Beds and Min Baths
+* Added customizer settings to change labels for all search form fields ( keyword, property id, locations, property status, property type, min beds, min baths, min price, max price, min area, max area, search button and features toggle text )
+* Added customizer settings to change placeholder values in input fields in search form like keyword, property id, min & max area.
+* Added customizer settings to select search page and deprecated old approach of providing search page URL. This new way will help in auto translation of search page while using WPML.
+* Refactored search code and made it more modular so that its behaviour can be extended or easily changed by adding/overriding a function in child theme.
+* Added code to preserve sorting during multiple search queries.
+* Optimised search query string in browser address bar by removing empty fields
+* Added customizer setting to show/hide empty locations in search form’s location dropdown.
+* Re-coded favourites feature in a way that a visitor do not need to login to use it but if he decides to login after adding few properties into his favourites then on login his favorite properties will be imported into database. So, logged-in and not logged-in both users can enjoy this feature.
+* Added customizer setting to select edit profile page instead of providing a URL.
+* Added customizer setting to select submit page instead of providing its URL
+* Added customizer setting to select my properties page instead of providing its URL
+* Added customizer setting to select favourites page instead of providing its URL
+* Added customizer setting to select login/register page instead of providing its URL
+* Added customizer setting to disable login feature in header.
+* Added property archive template to standardized layout for yourwebsite.com/property/ archive page.
+* re-coded user registration flow to send random password to newly registered user’s email address as this will verify user’s email automatically.
+* Added search results number below search form on properties search results page.
+* Added search template with right sidebar support.
+* Added code to save message to reviewer as property meta and display it on property edit page under Misc tab.
+* Added customizer setting to replace default contact form with a shortcode from any form’s plugin like contact form 7 or ninja forms.
+* Added customizer setting to change URL slugs for property, agent, property city, property status, property type and property feature.
+* Increase number of pages around current page in pagination from 2 to 3.
+* Improved overall code with respect to WPML and with new features it is more easy to build a WPML website as all the important pages will auto linked to their translated versions.
+* Improved agent’s contact form code to make it only appear if agent has a proper email address.
+* Improved mail sending code in overall theme to make emails more authentic yet having correct reply to address.
+* Fixed navigation issue for thumbnail slider on property detail page.
+* Fixed some RTL related style issues for admin dashboard.
+
+
+--------------
+Version 2.5.3
+--------------
+* Improved customizer settings code to initialise default values
+* Applied escaping to html strings, URLs and attributes in overall theme to improve security
+* Improved page reload after login or register
+* Fixed location id conflict with search form widget on contact page
+
+
+--------------
+Version 2.5.2
+--------------
+* Fixed one click demo import that stopped working after last update
+* Improved textarea sanitisation in customizer settings
+* Fixed property map appearance in print styles
+
+
+--------------
+Version 2.5.1
+--------------
+* Fixed image gallery bug in property meta box that appeared after Version 2.5.0
+* Fixed Agent’s Featured Widget for Agent’s Sidebar
+* Improved overall code related to meta boxes.
+
+
+--------------
+Version 2.5.0
+--------------
+* Added Customizer Settings for all Theme Options ( and deprecated theme options )
+* Fixed image upload issue on edit profile and submit property page when WPML and Visual Composer are installed
+* Added new user email notification for admin and user both.
+* Improved one click demo import script by removing all its bugs especially related to PHP7 and deprecated functions.
+* Updated translation files
+* Updated documentation
+
+
+--------------
+Version 2.4.3
+--------------
+* Fixed homepage pagination issue that appeared after WordPress 4.4 update
+
+
+--------------
+Version 2.4.2
+--------------
+* Added paginations to properties list on agent detail page
+* Fixed image upload issue for safari browser on iPad & iPhone
+* Fixed flex slider issue in RTL mode on iPad
+* Improved Login and Register Template to make it work with AJAX functionality added in recent updates.
+* Improved header code + added WordPress site icon support with fallback to theme options favicon
+* Improved overall CSS & RTL Styles
+* Improved recaptcha by making it protocol independent
+* Improved featured properties exclusion check
+
+
+--------------
+Version 2.4.1
+--------------
+* Fixed missing title in submit property email notice
+
+
+--------------
+Version 2.4
+--------------
+* Added multiple agents support for a property
+* Added AJAX support in Login, Register and Forgot Password forms ( in modal dialog )
+* Refactored functions.php file and distributed its 90% functions into separate files to make it easy for you to customize
+* Fixed submit property leading to page 404 after WordPress 4.4 update
+* Fixed property attachments title appearance
+* Fixed theme options styles issue after WordPress 4.4 update
+* Refactored meta box related code
+* Updated language files
+* Few minor improvements in CSS
+
+
+--------------
+Version 2.3.1
+--------------
+* Improved property meta box related code to fix the bug that appeared in floor plans
+* Embedded Meta Box plugin to avoid future problems
+* Removed TGM code as it is not longer needed
+* Did some minor improvements in couple of other places
+
+
+--------------
+Version 2.3.0
+--------------
+* Added floor plans support. Now, You can add floor plans for a property using a very easy to use interface.
+* Added functionality to restrict WordPress dashboard access for certain level of users and new theme options are introduced to provide settings for this feature.
+* Added multiple locations select boxes support on property submit and property edit forms as support is already available in properties search form.
+* Added breadcrumbs support on property detail page and provided theme options to change breadcrumbs settings.
+* Added WPML flags column for properties list in WordPress admin side.
+* Improved AJAX pagination for properties on homepage.
+* Improved my properties page code.
+* Improved TGM plugin activation code.
+* Improved translation files ( removed TGM and Demo content related strings )
+* Embedded meta box extensions with in the theme.
+* Removed embedded PayPal IPN files and integrated payment processing with "PayPal IPN" plugin.
+* Fixed image repeat issue in light box.
+
+
+--------------
+Version 2.2
+--------------
+* Updated widgets code to WordPress 4.3 requirements
+* Added new meta boxes for properties list templates to filter and sort properties
+* Integrated properties list templates properties filter feature with google map
+* Improved news page styles
+* Improved google recaptcha styles on agent detail page
+* Improved logo and tag line styles to behave more flexibly
+* Improved currency switcher styles
+* Improved meta boxes code
+* Improved property detail page print styles for sticky header
+* Made some minor code improvements in couple of places
+
+
+--------------
+Version 2.1
+--------------
+* Improved - Additional details backend code
+* Fixed - slider size bug on property detail page when visual composer is active
+* Excluded property from google map if their address field is empty
+* Improved javascript related to gallery pages
+* Added password protection support for property detail page
+* Improved parters meta box
+* Improved slider post type meta box
+* Updated pretty photos script
+* Improved ajax pagination for homepage
+
+
+--------------
+Version 2.0
+--------------
+* Added FAQs Support
+* Added Testimonials Support
+* Fixed dsIDXpress styles issues
+* Improved columns of properties list on admin side. ( Properties can be filtered on admin side based on property type, city and status)
+* Updated TGM plugin activation class and improved security related code.
+
+
+--------------
+Version 1.9
+--------------
+* Added short code to display properties on any page and also integrated this short code with Visual Composer. This short code will let you display properties based on almost any type of filter you want, Fo example: types, statuses, location, features, min beds, max beds, min baths, max baths, min area, max area, min price, max price, featured etc. It will also let you sort the properties by price or date and display them in grid or list layout.
+* Added currency switcher support. Now you can provide currency switching option to your users in almost any currency you want.
+* Added mortgage calculator widget support.
+* Added all users listing template, like the agents listing template is for agents.
+* Added theme options to display a common note on every property detail page. this can be used for contents like terms or policies.
+* Added theme option to specify default sorting.
+* Added one click demo contents importer.
+* Added ajax based pagination on homepage and related theme option to enable/disable it.
+* Added sticky header support.
+* Added scroll to top button.
+* Replaced png icons with newly designed svg icons for property meta, agent info, contact details and header.
+* Improved google map to display markers with retina ready icons.
+* Improved admin side meta boxes on property edit page.
+* Improved Print styles
+* Improved RTL styles
+* Improved gallery templates related code.
+* Improved styles for mobile devices.
+* Improved front end and back end scripts for all the forms across the theme.
+* Improved dsIDXpress related styles.
+* Improved user navigation styles.
+* Improved property detail page gallery slider styles.
+* Improved add to favorites code.
+* Updated image placeholder for profile edit page.
+* Fixed additional details title bug.
+* Fixed property ID search bug on admin side while using WPML plugin.
+* Fixed double image issue in property detail page's light box gallery.
+* Fixed additional details empty fields bug.
+
+
+--------------
+Version 1.8
+--------------
+* Added - Support to multiple location boxes on search form, these location boxes will be fully integrated with each other and can dynamically handle any number of levels in locations hierarchy.
+* Added - Support of features search
+* Added - Support of keyword search
+* Added - Google map marker clusters support to handle large number of markers
+* Added - Additional search template with left sidebar support
+* Added - Support to upload multiple images with drag and drop on property submit page
+* Added - Support to re-position images with drag and drop on property submit page
+* Added - New easy to use interface with drag and drop support to add additional details on admin property edit page
+* Added - Additional details support on property submit template
+* Added - Theme options to provide default values for address and location fields on property submit page.
+* Added - Theme options to provide default status of a submitted property
+* Added - Front end profile edit page with image upload and change password support
+* Added - User public profile page similar to agent detail page. ( this will support the freedom of using default WordPress users as agents )
+* Improved - RTL styles
+* Improved - Google map markers info window
+* Improved - Widget areas code
+* Improved - Language loading path
+* Improved - Title tag support in header
+* Improved - Pretty Photos lightbox script
+* Improved - Property submit template
+* Improved - Child theme
+* Improved - Child theme’s styles enqueue
+* Improved - Child theme support
+* Improved - Analytics script inclusion in header
+* Improved - Google map address and location fields on property submit template
+* Improved - Dashboard icons for various custom post types
+* Fixed - Sort by issue when listing page is used as homepage
+
+
+--------------
+VERSION 1.7
+--------------
+* Added - Visual Composer Plugin as part of the theme package
+* Added - Parent child support in property types widget
+* Added - A meta box to show or hide page title
+* Improved - Theme options related to property and search
+* Improved - Contact form’s, Agent form’s and Submit Property Form’s emailing script
+* Fixed - Footer widgets floating for tablets
+
+
+--------------
+VERSION 1.6.6
+--------------
+* Added - Theme Option to handle no price text and modified price related code throughout the theme to improve the overall logic.
+* Added - Place holder image support in case of missing property featured image.
+* Added - Filter to display only required properties on Google Map for Homepage.
+* Added - Theme Option to show or hide properties on Homepage.
+* Added - Video Wrapper short code, to help users embed videos in contents in a responsive way.
+* Improved - Border related styles for homepage.
+* Fixed - Messages short code bug, message short codes were not working on homepage content area.
+* Fixed - Fax number icon bug on contact page
+* Fixed - Agent’s Featured Properties Widget Error
+* Removed - Redirection to Theme Options on theme activation, To help user install the required plugin first.
+* Removed - Some extra title attributes from anchor tags
+
+
+--------------
+VERSION 1.6.5
+--------------
+1) Added excerpt support for properties to add hand crafted overview text
+2) Added a check to skip the property ID search script for admin side if WPML is active
+3) Added a textarea to record a private note for a property on property edit page. It will help agent/admin to keep some private notes about a property.
+4) Removed Meta Box plugin library from with in the theme and added it as a required plugin using TGM plugin activation class. This will help users keep it updated without updating the files with in the theme.
+5) Fixed agent description bug, that appeared in recent updates
+6) Made few small fixes to remove couple of PHP notices and improve a bit of code.
+
+
+--------------
+VERSION 1.6.4
+--------------
+1) SSLv3 is no longer supported by PayPal. So I have updated the IPN listener script to work with PayPal.
+
+
+--------------
+VERSION 1.6.3
+--------------
+1) WPML Related - Fixed agents list in select box on admin side property edit page and made it language specific.
+2) New Feature - Added property status classes support in figcatpion element above property listing image. This will help you change the property status color based on property status class.
+3) Performance Related - Improved Google Map API inclusion, Now it will be included only on needed pages and only when Google map is enabled for those pages.
+4) WPML Related - Improved WPML Configuration XML and included some missing custom fields that are added in previous updates.
+5) Fixed - Property with agent in sidebar variation now also supports widgets in sidebar, but the search widget was kind of duplicated in it and that is removed now.
+
+
+--------------
+VERSION 1.6.2
+--------------
+1) Fixed WPML issue related to agent translation
+2) Added Option to Enable/Disable Add to Favorites button
+3) Improved Google Map Marker code
+4) Improved Image and Standard Post Formats code
+5) Improved property single variation code
+6) Improved gallery code
+7) Improved sorting controls code
+
+
+--------------
+VERSION 1.6.1
+--------------
+1) Added max zoom to map based banner
+2) Fixed some styling issues
+3) Fixed some WPML Configuration Issues
+4) Fixed some JavaScript issues
+5) Fixed some minor code bugs
+
+
+--------------
+VERSION 1.6
+--------------
+1) Added News/Blog Posts Module for Homepage
+2) Added a widget to display random, recent or featured properties based on selected agent
+4) Added a widget to display random or recent featured properties for current agent on agent detail page
+5) Added modal dialog for Login, Register and Forgot Password functionality
+6) Added "Add to Favorites" Support with related template and top menu item.
+7) Added file attachments support for property
+8) Added fax number support for contact details on contact page.
+9) Added Open Graph Meta tags support for property detail page
+10) Added enable/disable options for banner title and subtitle.
+11) Added dsIDXpress search widget support for homepage
+12) Added property id column on admin side properties index page
+13) Updated Font Awesome Files
+15) Re-factored some code functions
+14) Made some style fixes
+
+
+--------------
+VERSION 1.5
+--------------
+1) Added property detail page variation in which agent info, contact form and search form will be displayed in sidebar
+2) Added property detail page gallery slider variation in which thumbnails will be displayed on bottom
+3) Added sort by price and date feature in listing and search pages
+4) Made major modification in Google re-captcha design to make it look part of the theme
+5) Added support to display featured properties exclusively on homepage
+6) Added Property ID Field in Submit Property Template
+7) Added Video URL Field in Submit Property Template
+8) Added checkbox to mark a property as featured in submit property template.
+9) Added theme option to choose number of agents to display on agents listing page.
+10) Added support to display multiple statuses
+11) Added theme option to disable footer image
+12) Improved spacing in Google map info window
+13) Added separate theme options to hide map and underneath sharing buttons on property detail page.
+14) Added multi-site registration support in login & registration template.
+
+
+--------------
+VERSION 1.4
+--------------
+1) Added lots of new options to modify theme styles.
+2) Added support to change advanced search form min and max prices based on rent
+3) Added support of child properties. Now a property can have sub/child properties.
+4) Added support of sub property types. Now a property type can have sub property types
+5) Added theme option to modify number of properties on search results page.
+6) Added theme option to exclude featured properties from recent properties on homepage.
+7) Added 4 new map icons for apartment, apartment building, office and shop
+8) dsIDXpress plugin styles fixes. After the dsIDXpress plugin update.
+9) Fixed auto draft properties listing on my properties page.
+10) Modified property ID search from exact to flexible
+11) Added slider images pre-loader
+12) Fixed the Re-CAPTCHA url in theme options.
+13) Made few other minor fixes in styles and JavaScript.
+
+
+--------------
+VERSION 1.3.3
+--------------
+1) Added RTL languages Support 
+2) Added Revolution Slider Plugin Support
+3) Added Property Additional Details Support
+4) Agent assignment options on property submit page 
+5) Footer image change options in "Theme Options > Footer"
+6) Number of slides control for property slider in "Theme Options > Home"
+7) Social share enable/disable in "Theme Options > Property"
+8) Contact Form 7 Styles Support
+9) Single agent query fix ( changed like to = )
+10) Various CSS Fixes
+11) Reviewer comment field on property submit page 
+12) Re-organization of home page related theme options
+
+	
+--------------
+VERSION 1.3.2
+--------------
+* Added dsIDXpress pro version styles
+* Added sub-locations support in property submit & edit page
+* Fixed a search bug - The search was skipping properties with invalid/empty price value
+* Fixed couple of typos in theme options description text.
+
+
+--------------
+VERSION 1.3.1
+--------------
+* Added sub locations support
+* Added banner image upload support for each property
+* Added support to get a copy of agent's message on a given email address
+* Added check-boxes support to assign property city, property type, property status and property features to a property on admin side.
+* Added support to receive a message on property submit
+* Fixed featured properties widget's post count fix on taxonomy archive pages
+* Fixed default text appearance bug in text and textarea fields of theme options
+* Fixed submit property agent auto assign bug and improved related select box on property add page.
+
+
+--------------
+VERSION 1.3
+--------------
+* Users Login, Registration and Password Recovery
+* Submit Property Page Template for logged in Users
+* My Properties Page Template for submitted properties listing
+* Edit Property Feature to modify submitted property information
+* PayPal Payments Integration - User can pay for submitted property and if allowed, property will be published automatically on successful payment.
+* Added admin side page to view payments list.
+* Added Property ID Field in Property Edit page and Search Form
+* Added Area/Size Post Fix Field
+* Improved Search Form by adding more fields and related theme options to add/remove fields
+* Added Theme Options to Sort & Filter Home Page Properties
+* Added Similar Properties Section for Property Detail Page.
+* Added Theme Options to Disable/Enable Various Sections of Property Detail Page
+* Improved Print Styles for Property Detail Page.
+* Added Theme Options to Disable/Enable Responsive Styles
+* Increased Quick CSS Precedence
+* Improved Child Theme Support
+* Taxonomy Archive Pagination Fix
+* Improved Meta Box Related Code
+* Various minor fixes across the theme.
+	
+
+--------------
+VERSION 1.2.1
+--------------
+* Made admin side compatible with WordPress 3.8
+* Fixed Google Map Issue for IE8
+
+
+--------------
+VERSION 1.2
+--------------
+* Provided support to add slider images and related text contents using a separate custom post type for slides.
+* Provided support of WPML plugin to build multi language websites
+* Provided support to add Google Map with properties markers on Homepage, Search Page, Listing Page and taxonomy pages.
+* Provided support of more social icons in top social nav
+* Provided support of google reCAPTCHA in contact form and agent contact form on property detail page.
+* Added "Know More" button with agent info on property details page.
+* Provided support of grid and listing layout for custom taxonomies with related theme options 
+* Provided image banner support for News/Blog page
+* Provided new theme options to customize price format
+* Provided new theme options to customize minimum and maximum prices values in advance search form
+* Provided new theme options to customize homepage and search page header.
+* Changed the number of image for single property from 12 to 48
+* Fixed google map related issues on property detail page and contact page
+* Improved agent contact form validation issues
+* Added property city on property detail page
+* Added anti spam support for mailto links
+* Provided a child-custom.css file in child theme to override parent theme styles.
+
+
+--------------
+VERSION 1.1.1
+--------------
+* Fixed - Phone number background color display bug in small screens
+
+
+--------------
+VERSION 1.1
+--------------
+* Added - dsIDXpress IDX Plugin Support
+* Added - Header Color Customization Options in Theme Options
+* Added - Support of Swipebox lightbox plugin and Switch Options in Theme Options
+* Added - Content Support in Contact Page
+* Improved - Property Search Behavior
+* Improved - Min and Max Price Support for Price Format Settings
+* Improved - Localization Support
+* Improved - Documentation
+* Improved - CSS
+* Improved - JavaScript
+
+
+--------------
+VERSION 1.0.1
+--------------
+* Added - PSDs Files
+* Added - Change log text file in main package
+* Improved - Thumbnail
+* Improved - Documentation
+* Improved - CSS
+* Improved - JavaScript    
+* Improved - Theme Options Helping Text
+* Disabled - Google Map Scrolling
